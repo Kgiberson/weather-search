@@ -1,5 +1,45 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 0 20px;
   font-family: sans-serif;
+}
+
+.input-group {
+	margin: 50px 0px;
+}
+
+td, th {
+	vertical-align: middle !important;
+}
+
+td:first-of-type {
+	height: 200px;
+	width: 250px;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+a.page-title {
+	line-height: 122px;
+	font-size: 48px;
+	font-weight: thin;
+	hover: false;
+}
+
+nav.top-nav {
+	height: 122px;
+	box-shadow: none;
+}
+
+.nav-wrapper {
+	text-align: center;
+	height: 122px;
 }
