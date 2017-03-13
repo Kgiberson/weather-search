@@ -1,6 +1,7 @@
 # Weather the Weather
 
 A real-time weather app that uses React.js, Redux, and Webpack.
+
 Check in out live: http://karigiberson.com/weather-search/
 
 ## Intention
